@@ -3,7 +3,7 @@
 # Black Hole Simulator
 Black hole simulator created for ASTRO 101 Creative Work assignment. This repo is mostly self contained and is basically a pruned ![openFrameworks repo](https://github.com/openframeworks/openFrameworks). 
 
-![Alt Text](https://gfycat.com/flawlesspinkbirdofparadise)
+![](https://github.com/tiganov/BHSim/blob/master/gifs/example.gif)
 
 ## Description
 I'm working on a spinless stellar-mass black hole simulator written using openFrameworks (C++ creative coding framework).
