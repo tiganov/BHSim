@@ -1,4 +1,4 @@
-# Black Hole Simulator
+# Black Hole Visualizer
 Black hole simulator created for ASTRO 101 Creative Work assignment. This repo is mostly self contained and is basically a pruned [openFrameworks repo](https://github.com/openframeworks/openFrameworks). 
 
 ## New Version:
